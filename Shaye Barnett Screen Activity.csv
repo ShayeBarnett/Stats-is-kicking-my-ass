@@ -1,0 +1,51 @@
+Date,Day_of_the_week,APP,Minutes,Category
+27-Aug,Sunday,MAPS,118,Travel
+27-Aug,Sunday,CHROME,5,Other
+27-Aug,Sunday,GMAIL,4,Other
+27-Aug,Sunday,YOTUBE,1,Entertainment
+28-Aug,Monday,MAPS,75,Travel
+28-Aug,Monday,INSTAGRAM,52,Social Media
+28-Aug,Monday,PHONE,24,Other
+28-Aug,Monday,MESSAGES,9,Other
+28-Aug,Monday,CHROME,9,Other
+28-Aug,Monday,GMAIL,8,Other
+28-Aug,Monday,CLOCK,6,Other
+28-Aug,Monday,DOCS,5,Other
+29-Aug,Tuesday,INSTAGRAM,52,Social Media
+29-Aug,Tuesday,YOTUBE,32,Entertainment
+29-Aug,Tuesday,MAPS,30,Travel
+29-Aug,Tuesday,GMAIL,29,Other
+29-Aug,Tuesday,CALCULATOR,17,Education
+29-Aug,Tuesday,PHONE,12,Entertainment
+29-Aug,Tuesday,MESSAGES,9,Other
+29-Aug,Tuesday,CHROME,6,Other
+30-Aug,Wednesday,INSTAGRAM,53,Social Media
+30-Aug,Wednesday,MAPS,18,Travel
+30-Aug,Wednesday,SNIFFSPOT,17,Education
+30-Aug,Wednesday,PHONE,10,Other
+30-Aug,Wednesday,CALCULATOR,7,Education
+30-Aug,Wednesday,GMAIL,4,Other
+31-Aug,Thursday,INSTAGRAM,54,Social Media
+31-Aug,Thursday,MAPS,31,Travel
+31-Aug,Thursday,GMAIL,18,Other
+31-Aug,Thursday,FARM HEROS SAGA,17,Entertainment
+31-Aug,Thursday,YOTUBE,14,Entertainment
+31-Aug,Thursday,CALCULATOR,12,Education
+31-Aug,Thursday,MESSAGES,8,Other
+31-Aug,Thursday,PHONE,5,Other
+31-Aug,Thursday,SNIFFSPOT,5,Education
+31-Aug,Thursday,CHROME,4,Other
+1-Sep,Friday,INSTAGRAM,42,Social Media
+1-Sep,Friday,YOTUBE,38,Entertainment
+1-Sep,Friday,CHROME,36,Other
+1-Sep,Friday,PHONE,21,Other
+2-Sep,Saturday,CHROME,112,Other
+2-Sep,Saturday,INSTAGRAM,68,Entertainment
+2-Sep,Saturday,PHONE,20,Other
+2-Sep,Saturday,GMAIL,11,Other
+2-Sep,Saturday,MASSAGES,10,Other
+3-Sep,Sunday,CHROME,99,Other
+3-Sep,Sunday,PHONE,88,Other
+3-Sep,Sunday,INSTGRAM,64,Social Media
+3-Sep,Sunday,MESSAGES,17,Other
+3-Sep,Sunday,GMAIL,13,Other
